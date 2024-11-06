@@ -14,7 +14,7 @@ A simple Python-based number guessing game that challenges players to guess a ra
 
   Easy-to-use command-line interface.
 
-**How to Play**
+**How to play**
 
 1. The program will prompt you to enter a range for the guessing game.
 
@@ -25,4 +25,4 @@ A simple Python-based number guessing game that challenges players to guess a ra
 3. Start guessing by entering numbers. The game will tell you if your guess is too high or too low.
 
 
-4. Keep guessing until you find the correct number, and the program will display the number of attempts it took. If you wanted to quit, just press "q".
+4. Keep guessing until you find the correct number, and the program will display the number of attempts it took. If you wanted to quit, you would just press "q".
