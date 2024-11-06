@@ -6,13 +6,13 @@ A simple Python-based number guessing game that challenges players to guess a ra
 
 **Features**
 
-Randomly generates a number within a user-specified range.
+  Randomly generates a number within a user-specified range.
 
-Gives feedback on each guess to guide the player.
+  Gives feedback on each guess to guide the player.
 
-Tracks the number of attempts taken to guess the correct number.
+  Tracks the number of attempts taken to guess the correct number.
 
-Easy-to-use command-line interface.
+  Easy-to-use command-line interface.
 
 **How to Play**
 
