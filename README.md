@@ -1,9 +1,10 @@
 **number_guesser**
+
 Number Guesser
 
 A simple Python-based number guessing game that challenges players to guess a random number within a specified range. The game provides feedback on whether each guess is too high or too low, making it a fun way to practice logic and number estimation skills
 
-~Features~
+**Features**
 
 Randomly generates a number within a user-specified range.
 
@@ -13,7 +14,7 @@ Tracks the number of attempts taken to guess the correct number.
 
 Easy-to-use command-line interface.
 
-How to Play
+**How to Play**
 
 1. The program will prompt you to enter a range for the guessing game.
 
