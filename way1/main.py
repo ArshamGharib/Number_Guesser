@@ -15,4 +15,10 @@ while True:
         print('Number is out of range, Choose number between 1 to 100!')
         continue
 
-    print(user_guess)
+    if user_guess < rand_num:
+        print('Number is less than that.')
+    elif user_guess == rand_num:
+        print('Cogratulations! You are correct. See you later:)')
+        break
+    else:
+        print('Number is grater than that.')
