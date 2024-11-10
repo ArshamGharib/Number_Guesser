@@ -1,5 +1,5 @@
 # Number Guesser game project
-
+`This project is only for lerning structures`
 ## Description
 This project is a game
 
